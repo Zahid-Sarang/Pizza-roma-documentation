@@ -1,5 +1,4 @@
-🛑 Note: The cluster is deleted because AWS EKS and EC2 instances are paid services.
-
+🛑 Note: Due to the AWS EKS and EC2 instances bill cluster is deleted 
 # 🍕 Pizza-Roma
 
 Pizza-Roma is a MERN stack-based micro-service application designed to streamline the operations of a chain restaurant. The project features two primary interfaces: an admin dashboard and a client-side application. The admin dashboard facilitates restaurant management, while the client-side application provides a seamless ordering experience for customers.
