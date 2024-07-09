@@ -1,4 +1,4 @@
-🛑 Note: Because AWS EKS and EC2 instances are paid services, I have deleted the cluster.
+🛑 Note: The cluster is deleted because AWS EKS and EC2 instances are paid services.
 
 # 🍕 Pizza-Roma
 
