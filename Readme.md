@@ -1,7 +1,9 @@
 🛑 Note: Due to the AWS EKS and EC2 instances bill cluster is deleted 
 # 🍕 Pizza-Roma
 
+
 Pizza-Roma is a MERN stack-based micro-service application designed to streamline the operations of a chain restaurant. The project features two primary interfaces: an admin dashboard and a client-side application. The admin dashboard facilitates restaurant management, while the client-side application provides a seamless ordering experience for customers.
+
 
 ## Technologies Used
 
@@ -46,8 +48,20 @@ Pizza-Roma is a MERN stack-based micro-service application designed to streamlin
 
 Pizza-Roma is designed to provide an efficient and user-friendly experience for both restaurant managers and customers. The application is divided into two main parts:
 
-1. **[Admin Dashboard](https://github.com/Zahid-Sarang/mern_admin-ui)** 🛠️: Provides comprehensive tools for restaurant managers to manage orders, inventory, staff, and customer feedback.
+1. **[Admin Dashboard](https://github.com/Zahid-Sarang/mern_admin-ui)** 🛠️: Provides comprehensive tools for restaurant managers to manage orders, inventory, and staff.
+
+##
+
+<img width="843" alt="Screenshot 2024-07-11 at 7 03 38 PM" src="https://github.com/Zahid-Sarang/Pizza-roma-documentation/assets/88975408/6f2cd071-984c-4077-8be9-071ea02730ec">
+
+##
+
 2. **[Client Applicatio](https://github.com/Zahid-Sarang/mern_client-ui)n** 📱: Offers customers an intuitive and responsive interface for browsing the menu, placing orders, and tracking their delivery status.
+ ##
+<img width="1662" alt="Screenshot 2024-07-11 at 6 59 44 PM" src="https://github.com/Zahid-Sarang/Pizza-roma-documentation/assets/88975408/04ac6f8c-d553-44a5-8f7f-c18d01d407ad">
+
+##
+
 
 ### Key Features and Achievements
 
